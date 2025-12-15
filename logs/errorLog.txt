@@ -1,0 +1,24 @@
+2025-12-14	16:07:22	24ef1496-f7c2-47bd-a592-fa98f38434bb	2025-12-14T15:07:22.922Z | POST /api/auth/register | Error: User already exist
+2025-12-14	16:08:52	391c63c5-b9c1-40c8-9f7e-e7ed0e1abeff	2025-12-14T15:08:52.200Z | POST /api/auth/register | Error: User already exist
+2025-12-15	10:59:21	cd473100-295a-4cce-bfb5-0667f129acb8	2025-12-15T09:59:21.616Z | POST /api/auth/register | Error: Route POST http://localhost:3000/api/auth/register does not exist
+2025-12-15	11:09:07	b5066fb8-0e46-45ce-b256-b49f9076c8f3	2025-12-15T10:09:07.537Z | POST /api/auth/register | SequelizeUniqueConstraintError: Validation error
+2025-12-15	11:09:17	030252ef-d7c3-49d3-85f2-18cb5b34bee8	2025-12-15T10:09:17.027Z | POST /api/auth/register | SequelizeUniqueConstraintError: Validation error
+2025-12-15	11:27:06	c6cdfc86-d93f-4b1b-8c9c-86c41f75c6cf	2025-12-15T10:27:06.642Z | POST /api/auth/login | TypeError: Cannot read properties of undefined (reading 'findOne')
+2025-12-15	11:27:40	d877c677-b54b-4882-a443-4927ca01a35a	2025-12-15T10:27:40.550Z | GET /api/api/health | Error: Route GET http://localhost:3000/api/api/health does not exist
+2025-12-15	17:35:08	cdbbd0f4-3c28-4d27-8ae7-506674f58aab	2025-12-15T16:35:08.073Z | GET /api/users | Error: Undeclared variable: NaN
+2025-12-15	18:18:13	021580e3-7293-4f28-a9d3-c8e31dec1099	2025-12-15T17:18:13.683Z | POST /api/auth/login | TypeError: Cannot read properties of undefined (reading 'findOne')
+2025-12-15	18:32:58	39500f0a-966a-4382-884d-63f8936a4e6c	2025-12-15T17:32:58.189Z | POST /api/auth/login | TypeError: Cannot read properties of undefined (reading 'findOne')
+2025-12-15	18:33:00	c57c82c5-eb50-4089-a0c5-7b8a3fc4df83	2025-12-15T17:33:00.089Z | POST /api/auth/login | TypeError: Cannot read properties of undefined (reading 'findOne')
+2025-12-15	18:33:01	e4518d0b-f704-49cc-814a-238220bf76f1	2025-12-15T17:33:01.753Z | POST /api/auth/login | TypeError: Cannot read properties of undefined (reading 'findOne')
+2025-12-15	18:34:27	d2fec9f4-e9d1-4eb3-a876-6c56746affeb	2025-12-15T17:34:27.302Z | POST /api/auth/login | TypeError: Cannot read properties of undefined (reading 'findOne')
+2025-12-15	18:35:54	ca84a000-0f40-4b43-a291-eb58b791257f	2025-12-15T17:35:54.754Z | POST /api/auth/login | TypeError: Cannot read properties of undefined (reading 'findOne')
+2025-12-15	18:35:56	80f17331-f1e8-4066-83ac-db414c169313	2025-12-15T17:35:56.324Z | POST /api/auth/login | TypeError: Cannot read properties of undefined (reading 'findOne')
+2025-12-15	18:36:25	2f961ee8-d0ed-4f24-aae5-1ec7f384fc04	2025-12-15T17:36:25.034Z | POST /api/auth/login | TypeError: Cannot read properties of undefined (reading 'findOne')
+2025-12-15	18:36:26	335b4e8d-0da9-4f02-a82f-180119630f0f	2025-12-15T17:36:26.646Z | POST /api/auth/login | TypeError: Cannot read properties of undefined (reading 'findOne')
+2025-12-15	18:39:48	5173c1ac-327e-43e3-a25c-d1f5a6ef17fa	2025-12-15T17:39:48.784Z | POST /api/auth/login | TypeError: Cannot read properties of undefined (reading 'findOne')
+2025-12-15	20:44:35	8fb4d52b-7368-45d3-b6b2-569498c3fe0a	2025-12-15T19:44:35.174Z | POST /api/auth/login | TypeError: Cannot read properties of undefined (reading 'findOne')
+2025-12-15	20:48:57	948435b0-bf80-4ce9-96ab-3998f3e8be43	2025-12-15T19:48:57.151Z | POST /api/auth/login | TypeError: Cannot read properties of undefined (reading 'findOne')
+2025-12-15	20:51:14	b386b3aa-d41b-4aa3-ae31-991f3bde833f	2025-12-15T19:51:14.316Z | POST /api/auth/login | TypeError: Cannot read properties of undefined (reading 'findOne')
+2025-12-15	20:51:17	ea0f797a-91c5-4f5e-a570-89910b4e5017	2025-12-15T19:51:17.078Z | POST /api/auth/login | TypeError: Cannot read properties of undefined (reading 'findOne')
+2025-12-15	20:51:33	e6c90dbf-54c9-41c1-b344-b9fd129b1621	2025-12-15T19:51:33.835Z | POST /api/auth/login | TypeError: Cannot read properties of undefined (reading 'findOne')
+2025-12-15	20:51:35	d3bbf8c6-7bac-41ef-82bc-a4025d13e443	2025-12-15T19:51:35.668Z | POST /api/auth/login | TypeError: Cannot read properties of undefined (reading 'findOne')
